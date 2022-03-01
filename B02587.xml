@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Prideaux Esq; Upon his petition against Francis Stratford Esq; the sitting member, for the borough of Newport, in the county of Cornwall. The petitioner complains of illegal and arbitrary proceedings of the vianders at the election; and of an undue return manifestly injurious to the petitioner.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02587</idno>
+            <idno type="STC">Wing C935</idno>
+            <idno type="STC">ESTC R170956</idno>
+            <idno type="EEBO-CITATION">52211910</idno>
+            <idno type="OCLC">ocm 52211910</idno>
+            <idno type="VID">175480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175480)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2738:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Prideaux Esq; Upon his petition against Francis Stratford Esq; the sitting member, for the borough of Newport, in the county of Cornwall. The petitioner complains of illegal and arbitrary proceedings of the vianders at the election; and of an undue return manifestly injurious to the petitioner.</title>
+                  <author>Prideaux, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Half-title on p. [2]: John Prideaux the petitioner, against Francis Stratford Esq; the sitting member, the petitioner's case.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stratford, Francis --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Prideaux, John --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Contested elections --  Early works to 1800.</term>
+               <term>Elections --  Corrupt practices --  England --  Cornwall --  Early works to 1800.</term>
+               <term>Cornwall (England : County) --  Politics and government --  17th century --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175480:1"/>
+            <head>The CASE of John Prideaux <abbr>Eſq</abbr> Upon his PETITION againſt <hi>FRANCIS STRATFORD</hi> 
+               <abbr>Eſq</abbr> the Sitting Member, for the Borough of <hi>Newport,</hi> in the County of <hi>Cornwall.</hi>
+            </head>
+            <head type="sub">The <hi>Petitioner</hi> Complains of Illegal and Arbitrary Proceedings of the <hi>Vianders</hi> at the Election; and of an <g ref="char:V">Ʋ</g>ndue Return manifeſtly Injurious to the <hi>Petitioner.</hi>
+            </head>
+            <p>UPON the Day of the Election, the Electors (who are agreed to be thoſe who have Freehold in the Borough, tho they live out of the Borough, and Inhabitants in the Borough paying Scott and Lot) met at the uſual place; and the end of their meeting being made known to them by the Vyanders, a great number of the Electors demanded to be Polled for the Petitioner: but the Vyander adjourned the Poll to a private Houſe, where the doors were ſhut againſt all who who offer'd to Vote for the Petitioner; nor were they admitted, but with ſome diſturbance, and after much delay.</p>
+            <p>When the Poll was taken, SEVENTY TWO Voted for the Petitioner, and only THIRTY NINE for the Sitting Member; and the Petitioner and the Electors deſiring Mr. <hi>Morrice</hi> (one of the Vyanders) to declare the Election; <hi>he anſwer'd,</hi> he would <hi>delare</hi> it <hi>when he would, where he would, and for whom he would;</hi> and then withdrew to his Nephew's Houſe in another County; where, with the other Vyanders only, and without any of the Electors privity or Signing the Indenture (contrary to the conſtant practiſe) they made a Return for the Sitting Member; neither did the Vyanders ever declare to the Borough whom they had Returned.</p>
+            <p>Thus Mr. <hi>Morrice</hi> made good his Arbitrary Declaration; and <hi>William Iſbell</hi> (the other Vyander, a poor Man, and abſolutely ma<g ref="char:EOLhyphen"/>naged by Mr. <hi>Morrice</hi>) being ask'd how he dar'd to make that Return? ſaid <hi>It was only a Money Matter, that Mr.</hi> Morrice <hi>would ſave him harmleſs, and had given him a Bond of</hi> 1000 l. <hi>to Indemnifie him.</hi>
+            </p>
+            <p>All this was proved by Mr. <hi>Horwell</hi> Clerk of the Peace for the County of <hi>Cornwall;</hi> and can be atteſted by Mr. <hi>Cary,</hi> and Mr. <hi>Manaton,</hi> two of the Members of this Honourable Houſe.</p>
+            <p>Mr. <hi>Morrice,</hi> to give ſome colour to this foul practiſe, having denied the Petitioner a Copy, and a Scrutiny of the Poll, when regu<g ref="char:EOLhyphen"/>larly and duly demanded; about four days after the Election and Return, ſent the Petitioner a Paper containing the Names of the Petitioner's Electors, with Exceptions to all but NINE of them, as if they were not qualified; and upon this Scheme the Sitting Mem<g ref="char:EOLhyphen"/>ber defended himſelf, before the Honourable Committee of Elections.</p>
+            <p>But the Petitioner conceives he then fully juſtified all his Votes but EIGHTEEN at the moſt, (and thoſe were Inhabitants) which being deducted, his Number will be FIFTY FOUR. And the Petitioner did then diſqualifie FIFTEEN of the Sitting Member's Votes, which reduced his Number to TWENTY FOUR; ſo there remains a Majority on the Petitioner's ſide of THIRTY, as the Petitioner Conceives, and hopes will appear to this Honourable Houſe, by the Report from the ſaid Committee.</p>
+            <p>The Return therefore is evidently falſe, and the Petitioner thereby wronged; and he hopes that he ſhall be adjuged to be duly Elected, notwithſtanding the Endeavours uſed to Incapacitate him upon the pretence of Bribery, or Treating.</p>
+            <p>The Bribery and Treating pretended, is attempted to be proved by one <hi>Hicks,</hi> who ſays <hi>that Mr.</hi> Foſter <hi>brought him Half a Crown from Colonel</hi> Specott, <hi>and deſired his Vote for the Petitioner: That a great Entertainment of Punch was made at Mr.</hi> Horwell<hi>'s, when Mr.</hi> Prideaux <hi>was preſent, and Sollicited for Votes: That a Treat was at Mr.</hi> Foſter's, but he does not ſay who was preſent at it: <hi>That he drew Ale for about twenty Perſons; and that Mr.</hi> Foſter <hi>told him if he would truſt for</hi> 10 s. <hi>worth, Mr.</hi> Horwell <hi>would pay it.</hi>
+            </p>
+            <p>One <hi>Rattenbury</hi> ſays, <hi>That</hi> Pepperell <hi>told him, that if he would not Vote for the Petitioner, he ſhould loſe a pair of Gloves.</hi>
+            </p>
+            <p>As to the Evidence of <hi>Rattenberry,</hi> that is only hear-ſay, and can no way affect the Petitioner.</p>
+            <p>To the Evidence of <hi>Hicks,</hi> the Petitioner by his Witneſſes has given this ('tis hoped clear and convincing) Anſwer. By <hi>Glanville</hi> and <hi>Kittowe</hi> (both Men of good Credit) <hi>That</hi> Hicks <hi>is now Servant to Mr.</hi> Morrice, <hi>by whom he ſaid he ſhould get more than by the Pe<g ref="char:EOLhyphen"/>titioner: That</hi> Hicks <hi>ſaid he would ſay any thing rather than Mr.</hi> Stratford <hi>ſhould loſe the Election, becauſe Colonel</hi> Speccott <hi>had taken away his Gun, and Mr.</hi> Horwell <hi>had Sued him ſince the Election. That he had declared he never had any Order from the Petitioner to draw any Drink.</hi>
+            </p>
+            <p>Nor is it pretended that the Petitioner ever promiſed to pay, or did pay for any, or any other perſon by his direction.</p>
+            <p>By Mr. <hi>Horwell,</hi> and Mr. <hi>Bewes,</hi> Men of good Eſtates, and as fair Reputations; it is proved, <hi>That Colonel</hi> Speccott, <hi>a Gentleman of known Worth and Honour, has for fourteen Years paſt at</hi> Chriſtmas <hi>time uſed to be Hoſpitable and Charitable to the Inhabitants of this Borough, and his Neighbouring Pariſhioners:</hi> That <hi>the method of doing it this</hi> Chriſtmas <hi>before the Election, was by the Advice of, and according to a Liſt given in by Mr.</hi> Kittowe, <hi>Mr.</hi> Stratford<hi>'s Friend, that the Diſtribution was without diſtinction, as well to thoſe who Voted for the Sitting Member and Petioner, as thoſe who had no Votes at all; and that it was done without any Condition, or any Requeſt made of Voting for the Petitioner.</hi>
+            </p>
+            <p>☞ <hi>Note,</hi> That the Inducement for ſuch the Colonel's Charity and Entertainment at <hi>Chriſtmas</hi> times, was in return to their aſſiſting him in his Harveſts, and that they had Money and Corn this Year, but were not Entertained at the Colonel's Houſe as uſual, by reaſon of his extream Illneſs.</p>
+            <p>By Mr. <hi>Horwell</hi> it's prov'd, <hi>That this Entertainment was no more than he uſed ordinarily at ſuch a Seaſon to make; That it was not made on any deſign relating to the Enſuing Election; That there was no talk of it by any but</hi> Hicks, <hi>and that Mr.</hi> Prideaux <hi>his being there, was purely Caſual.</hi>
+            </p>
+            <p>And as to Mr. <hi>Foſter</hi>'s Treat, it is not offer'd to be prov'd that it had any Relation to the <hi>Election;</hi> nor is it <hi>proved</hi> that Mr. <hi>Prideaux or any of the Electors</hi> were there.</p>
+            <p>Now if it was the Vyanders Duty to return the perſon who had the Majority of the Electors Voices, and they have no Authority to Judge of the Capacity of the Candidates (as it is hoped they have not) then the Petitioner ought to have been Returned; and if the Honour of ſo Worthy a Gentleman as Colonel <hi>Speccott</hi> be rather to be preſumed, than the Evidence of a mean intereſted Fellow admitted to blaſt it; and if the Evidence of three or four Perſons of good Credit and Eſtates be rather to be believed, than the Evidence of ſo vile a Fellow as <hi>Hicks;</hi>
+            </p>
+            <p>
+               <hi>Then 'tis Humbly Hoped the Honourable Houſe of Commons will not adjudge the Petitioner Incapacitated to be a Mem<g ref="char:EOLhyphen"/>ber, but will Reſolve him to be duly Elected.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:175480:2"/>
+            <p>
+               <hi>John Prideaux</hi> the PETITIONER, Againſt <hi>Francis Stratford</hi> 
+               <abbr>Eſq</abbr> the Sitting Member.</p>
+            <p>The PETITIONER'S CASE.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
